@@ -1,3 +1,7 @@
 .borda-redonda {
-  border-radius: 50%
+  border-radius: 50%;
+}
+
+#borda-redondinha {
+	border-radius: 50%;
 }
